@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94A00257-F188-4AC8-B940-5085D953F658</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7466CA4C6FCB29A15C7295B1021536D9C5F06C74</key>
+		<string>https://github.com/booy/Luff.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/Example.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7466CA4C6FCB29A15C7295B1021536D9C5F06C74</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/booy/Luff.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7466CA4C6FCB29A15C7295B1021536D9C5F06C74</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7466CA4C6FCB29A15C7295B1021536D9C5F06C74</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Luff</string>
+		</dict>
+	</array>
+</dict>
+</plist>
